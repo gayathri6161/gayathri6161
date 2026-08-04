@@ -7,8 +7,8 @@
 
   <p align="center">
     <b>🎓 B.Tech CSE @ KL University (9.5 CGPA)</b> • 
-    <b>💻 Full-Stack & Data Engineer</b> • 
-    <b>⚡ Competitive Programmer</b>
+    <b>Full-Stack & Data Engineer</b> • 
+    <b>Competitive Programmer</b>
   </p>
 
   <!-- Visitor Counter & Social Badges -->
